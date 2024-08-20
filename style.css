@@ -15,43 +15,26 @@
 
 /*container one starts*/
 
-.image{
-    height: 50px;
-    width: 150px;
-}
-.heal{
-    height: 80px;
-    width: 400px;
-    justify-content: end;
-    display: flex;
+.top{
+    width: 140px;
+height: 40px;
+
 }
 
 
-.hmm{
-    display: flex;
-  width: 200px;
-  height:40px;
-  justify-content: space-between;
-}
 
-.meow{
-    display: flex;
-    justify-content: end;
-    height: 40px;
-    width: 70em;
-}
-.smirk{
-    height: 200px;
-    width: 250px;
-}
-.desk{
-    display: flex;
 
-flex-wrap:wrap-reverse;
-width: 20em;
-height: 20em;
-}
+
 /*container 2 starts*/
+
+/*container 5 starts*/
+.copyright{
+    display: flex;
+ align-items: center;
+color: #e5e7eb;
+padding: 40px;
+}
+
 
 
 .container.two{
@@ -61,14 +44,7 @@ height: 20em;
  }
 
 
-.imagee{
-    height: 100px;
-    width: 200px;
- 
-}
-
-.halo{
-    display: flex;
-   
-    flex-direction: column;
+.container.five{
+  height: 100px;
+  width: 1785px;
 }
